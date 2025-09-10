@@ -1,6 +1,6 @@
 # 🚗 Vehicle Counting System using YOLOv8 & SORT
 
-![Demo](data/Cars.gif)
+![Demo](data/Cars .gif)
 
 ## 📌 Overview
 This project implements a **Vehicle Counting System** using **YOLOv8** for object detection and **SORT** for object tracking.  
@@ -16,7 +16,7 @@ The system detects and tracks vehicles (cars, trucks, buses, motorbikes) from vi
 ## 📂 Project Structure
 Vehicle-Counting-YOLOv8/
 │── data/
-│   ├── cars.mp4        # Sample video for testing
+│   ├── cars.gif       # Sample gif for testing
 │   ├── mask.png        # Region mask for focused detection
 │   └── graphics.png    # Overlay graphics
 │
