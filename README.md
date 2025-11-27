@@ -14,6 +14,7 @@ The system detects and tracks vehicles (cars, trucks, buses, motorbikes) from vi
 - Customizable counting line and mask regions.
 
 ## 📂 Project Structure
+```bash 
 Vehicle-Counting-YOLOv8/
 │── data/
 │   ├── cars.gif       # Sample gif for testing
@@ -28,8 +29,9 @@ Vehicle-Counting-YOLOv8/
 │   └── yolov8n.pt      # YOLOv8 model weights (download separately if large)
 │
 │── requirements.txt    # Dependencies
-│── README.md           # Project documentation
-│── .gitignore
+└── README.md           # Project documentation
+
+```
 
 ## ⚙️ Installation
 git clone https://github.com/omarahatem44/Vehicle-Counting-YOLOv8.git
